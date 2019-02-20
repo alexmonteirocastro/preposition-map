@@ -1,0 +1,24 @@
+{
+  "name": "prepositions",
+  "version": "1.0.0",
+  "description": "simple pojects to hack away stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmonteirocastro/preposition-map.git"
+  },
+  "keywords": [
+    "react",
+    "grammar",
+    "nodejs"
+  ],
+  "author": "Alexandre Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmonteirocastro/preposition-map/issues"
+  },
+  "homepage": "https://github.com/alexmonteirocastro/preposition-map#readme"
+}
