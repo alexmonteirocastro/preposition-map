@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alexmonteirocastro/preposition-map/issues"
   },
-  "homepage": "https://github.com/alexmonteirocastro/preposition-map#readme"
+  "homepage": "https://github.com/alexmonteirocastro/preposition-map#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.0"
+  }
 }
