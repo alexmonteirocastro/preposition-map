@@ -10,7 +10,7 @@ module.exports = {
                 test: /\.(js|jsx)$/,
                 exclude: /(node_modules|bower_components)/,
                 loader: "babel-loader",
-                options:{ presets: ["@babel/env"] }
+                options: { presets: ["@babel/env"] }
             },
             {
                 test: /\.css$/,
@@ -22,7 +22,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, "dist/"),
         publicPath: "/dist/",
-        fileName: "bundle.js"
+        filename: "bundle.js"
     },
     devServer: {
         contentBase: path.join(__dirname, "public/"),
